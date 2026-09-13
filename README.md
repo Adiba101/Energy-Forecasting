@@ -15,6 +15,11 @@ The **AI-Powered Energy Consumption Forecasting & Optimization Assistant** is de
 The solution directly champions **UN Sustainable Development Goal 7 (Target 7.3: Double the global rate of improvement in energy efficiency)** by transforming abstract electricity figures into transparent, actionable habits and decision-support intelligence.
 
 ---
+## Deployed link
+
+https://energy-forecasting-8bvzxukqglbpl5dvwkwfzj.streamlit.app/
+
+---
 
 ## 2. Key Capabilities & Features
 
@@ -118,16 +123,3 @@ python tests/test_core.py
 
 ---
 
-## 7. Submission Checklist & Deliverables (PRD Section 4.2)
-
-The repository provides ready-to-submit deliverables covering all 10 required items:
-1. **Title & Student Details**: Fully configurable in Tab 5 or `deliverables/project_presentation.md`.
-2. **SDG 7 Alignment**: Detailed decarbonization and energy-efficiency methodology.
-3. **Problem Statement**: Four key challenges (invisibility, peak strain, vampire loads, lack of personalization).
-4. **AI Solution Overview**: Core features and explainable machine intelligence.
-5. **Target Users**: Comparison matrix for students, households, and small commercial shops.
-6. **System Architecture**: 4-layer architecture with Mermaid diagrams.
-7. **Prototype & Demo**: Live interactive Streamlit app, Plotly charts, and downloadable prediction CSVs.
-8. **Responsible AI & Security**: Comprehensive review of fairness, privacy, safety, and guardrails.
-9. **Expected Impact**: Quantified scaling model (1,000 households = 859 tons CO₂ avoided annually).
-10. **Conclusion & Future Scope**: Smart plug IoT APIs and micro-weather integration roadmap.
