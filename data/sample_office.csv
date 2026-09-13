@@ -1,0 +1,31 @@
+date,consumption_kwh,notes
+2026-08-01,14.5,Saturday - office closed / server standby
+2026-08-02,13.8,Sunday - office closed / server standby
+2026-08-03,62.4,Monday full staff & central AC
+2026-08-04,64.1,Tuesday meetings & HVAC
+2026-08-05,63.0,Wednesday client visit
+2026-08-06,61.8,Thursday regular operations
+2026-08-07,59.5,Friday early wind-down
+2026-08-08,15.1,Saturday - maintenance / server baseline
+2026-08-09,14.0,Sunday - office closed
+2026-08-10,65.2,Monday all workstations active
+2026-08-11,63.7,Tuesday regular operations
+2026-08-12,66.0,Wednesday hot day - heavy cooling
+2026-08-13,64.3,Thursday all cabins occupied
+2026-08-14,60.2,Friday operations
+2026-08-15,13.5,Holiday - minimal server baseline
+2026-08-16,14.2,Sunday - office closed
+2026-08-17,64.8,Monday sprint kickoff
+2026-08-18,63.5,Tuesday regular operations
+2026-08-19,65.9,Wednesday client demo day
+2026-08-20,62.1,Thursday regular operations
+2026-08-21,58.7,Friday regular operations
+2026-08-22,14.9,Saturday - server baseline
+2026-08-23,13.9,Sunday - office closed
+2026-08-24,66.8,Monday sprint delivery
+2026-08-25,65.0,Tuesday regular operations
+2026-08-26,63.2,Wednesday regular operations
+2026-08-27,62.8,Thursday regular operations
+2026-08-28,61.0,Friday operations
+2026-08-29,15.5,Saturday - server baseline
+2026-08-30,14.1,Sunday - office closed

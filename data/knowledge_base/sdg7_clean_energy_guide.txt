@@ -1,0 +1,19 @@
+# UN Sustainable Development Goal 7 (SDG 7): Affordable & Clean Energy
+
+## 1. SDG 7 Core Targets
+- Target 7.1: By 2030, ensure universal access to affordable, reliable, and modern energy services.
+- Target 7.2: By 2030, increase substantially the share of renewable energy in the global energy mix.
+- Target 7.3: By 2030, double the global rate of improvement in energy efficiency.
+
+## 2. The Role of Individual & Institutional Demand Management
+- Energy efficiency is recognized by the International Energy Agency (IEA) as the "First Fuel" of clean energy transition.
+- Every kilowatt-hour (kWh) saved negates the need to burn approximately 0.4 to 0.8 kg of fossil fuel coal or gas at utility power plants.
+- Reducing peak-period energy waste directly decreases the necessity for grid operators to spin up high-carbon peaking power plants.
+
+## 3. Carbon Emissions & Decarbonization Metrics
+- Electricity Carbon Intensity: Represents grams of CO2 equivalent emitted per kWh of electricity generated.
+  * Thermal/Coal-dominated grid: ~700 - 820 g CO2e/kWh
+  * Mixed fossil/renewable grid: ~400 - 500 g CO2e/kWh
+  * Hydro/Solar/Wind-dominated grid: ~100 - 200 g CO2e/kWh
+- A typical residential home consuming 300 kWh/month produces over 2.5 metric tons of CO2 emissions annually—equivalent to burning 2,800 pounds of coal.
+- A 20% reduction through smart habits saves over 500 kg of CO2 per year, equivalent to planting 23 mature trees.

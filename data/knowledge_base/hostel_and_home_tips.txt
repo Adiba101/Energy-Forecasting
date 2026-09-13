@@ -1,0 +1,16 @@
+# Practical Energy Optimization for Hostels, Homes, and Small Workspaces
+
+## 1. College Hostel Students
+- Laptop Battery Management: Running high-performance gaming laptops continuously plugged in at 100% brightness draws 120W-230W. Enabling ECO / Battery Saver mode and dimming screen by 25% extends battery and saves 40W.
+- Room Coolers: Evaporative room coolers consume 150W-250W. Regularly replacing cooling pads and lubricating the pump reduces motor friction and electricity draw by 15%.
+- Electric Kettles & Hotplates: Boiling full kettles when only 1 cup is needed wastes 70% of the energy. Only boil the exact volume needed.
+- Dorm Phantom Loads: Shared charging strips with multiple phone/smartwatch/earbud adapters left plugged in draw continuous vampire power. Turn off the wall master switch when leaving for lectures.
+
+## 2. Residential Kitchen & Living Spaces
+- Refrigerators: Never place warm food directly into the refrigerator; let it reach room temperature first to avoid forcing the compressor into high-power cooling.
+- Washing Machines: 80% to 90% of a washing machine's energy goes toward heating the water. Washing clothes in cold water (30°C or tap temperature) cleans just as effectively with modern detergents while slashing cycle energy by 75%.
+- Air Circulation: Using a ceiling fan in tandem with an AC allows you to set the AC 2°C higher while feeling the same level of cooling comfort, cutting AC bills by 12%.
+
+## 3. Small Offices & Retail Shops
+- Computing Sleep Timers: Configure operating system power plans to sleep monitors after 5 minutes of inactivity and sleep PCs after 15 minutes.
+- Display Lighting: In retail storefronts, replace halogen track lights (50W each) with high-CRI LED spotlights (7W each), cutting display lighting power by 85% and reducing ambient heat load on the room's AC.

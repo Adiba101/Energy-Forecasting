@@ -1,0 +1,29 @@
+# Appliance Power Ratings & Energy Efficiency Guide
+
+## 1. Air Conditioners (HVAC)
+- 1.5 Ton Split AC (3-Star): Draws 1400W - 1600W. Daily consumption (8 hours) ~11-13 kWh.
+- 1.5 Ton Inverter AC (5-Star): Draws 900W - 1100W on average. Daily consumption (8 hours) ~7-8.5 kWh.
+- Temperature Benchmark: Bureau of Energy Efficiency (BEE) recommends default temperature setting of 24°C. Every 1°C increase in temperature reduces electricity consumption by 6%.
+- Maintenance: Cleaning AC air filters every 2 weeks reduces power consumption by 5% to 15% due to unobstructed airflow.
+
+## 2. Water Heating (Geysers)
+- Standard Electric Storage Geyser (15-25 Liters): Draws 2000W to 3000W.
+- 1 hour of continuous operation consumes 2.0 to 2.5 kWh.
+- Best Practice: Turn on the geyser for 20-30 minutes prior to bathing rather than leaving the thermostat cycling on/off all morning.
+- Replace old heating elements every 2-3 years to avoid scaling-induced resistance losses.
+
+## 3. Refrigeration
+- 250L Frost-Free Double Door Refrigerator (3-Star): Annual consumption ~260 kWh (approx 0.7 - 0.8 kWh/day).
+- 5-Star Inverter Refrigerator: Consumes ~170-190 kWh annually (approx 0.45 - 0.52 kWh/day).
+- Efficiency Tips: Maintain internal freezer temperature at -18°C and fresh food compartment at 3°C to 4°C. Ensure a minimum 5 cm clearance around rear condenser coils for air circulation.
+
+## 4. Lighting & Fans
+- Traditional Fluorescent Tube Light: 40W + 10W choke ballast = 50W.
+- Modern LED Tube Light: 18W - 20W delivering equal or superior lumens (60% energy reduction).
+- Conventional Ceiling Fan (Induction Motor): 75W - 80W on top speed.
+- BLDC (Brushless DC) Ceiling Fan: 28W - 32W on top speed (saving over 55% electricity).
+
+## 5. Phantom / Standby Load (Vampire Power)
+- TV set-top boxes, microwave ovens, video game consoles, and computer docks consume 2W to 15W continuously when plugged in on standby.
+- Across an entire household, phantom power accounts for 5% to 10% of total residential electricity bills.
+- Mitigation: Use switched multi-outlet surge strips to completely isolate standby loads when not in active use.

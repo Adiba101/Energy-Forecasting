@@ -1,0 +1,17 @@
+# Peak-Shaving and Time-of-Day (ToD) Tariff Strategies
+
+## 1. Understanding Peak Demand
+- Electricity grids experience intense demand spikes twice daily:
+  * Morning Peak: 7:00 AM to 10:30 AM (residential wake-up, heating, cooking, commercial opening)
+  * Evening Peak: 6:00 PM to 10:00 PM (residential lighting, cooling/heating, entertainment, commercial closing)
+- During peak hours, utilities fire up expensive and high-emission peaker plants (diesel, gas, or inefficient coal).
+- Many electrical utilities impose Time-of-Day (ToD) tariffs where electricity consumed during peak hours costs 20% to 50% more than normal hours, while off-peak nighttime electricity (10:00 PM to 6:00 AM) is discounted by 15% to 25%.
+
+## 2. Load-Shifting Best Practices
+- Heavy Appliances: Move laundry machines, dishwashers, and pool/borewell pumps to off-peak slots (after 10:00 PM or between 11:00 AM and 3:00 PM when rooftop solar generation peaks).
+- Thermal Pre-Cooling: In hot climates, pre-cool rooms by setting air conditioners to 22°C-23°C between 4:00 PM and 6:00 PM (before the peak window), then set them to 25°C-26°C with ceiling fans during peak hours (6:00 PM - 10:00 PM). This reduces compressor runtime during peak tariff periods without compromising comfort.
+- Battery and EV Charging: Schedule electric vehicle (EV) charging and home inverter battery charging strictly during the midnight off-peak window (12:00 AM - 5:00 AM).
+
+## 3. Commercial & Small Office Strategies
+- Staggered Startup: Avoid starting all heavy HVAC compressors, elevator banks, and copiers at the exact same minute when the office opens at 9:00 AM. Stagger startups by 15-minute intervals to avoid tripping Maximum Demand (kVA) penalties.
+- Lunchtime Setback: Automatically set office cooling setpoints 2°C higher during the lunch hour (1:00 PM - 2:00 PM) when occupancy in work areas is minimal.
