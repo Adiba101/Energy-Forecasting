@@ -19,6 +19,11 @@ The solution directly champions **UN Sustainable Development Goal 7 (Target 7.3:
 
 https://energy-forecasting-8bvzxukqglbpl5dvwkwfzj.streamlit.app/
 
+## Youtube link
+
+https://youtu.be/zZ7w7TH5BIk
+
+
 ---
 
 ## 2. Key Capabilities & Features
